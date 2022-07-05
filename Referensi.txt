@@ -1,0 +1,5 @@
+https://colab.research.google.com/github/ardhiraka/H8_SCL2020/blob/master/H8xSCL2020.ipynb#scrollTo=UvvGeuKC0_DV
+
+https://www.kaggle.com/code/berkkarabilliolu/beginners-nlp-on-google-play-store-reviews/data
+
+https://colab.research.google.com/drive/1GgH4hmMGmYiJPk5EiZf4_9FUmqBuCahe?usp=sharing
